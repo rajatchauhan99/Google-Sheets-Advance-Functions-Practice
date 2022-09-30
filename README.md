@@ -20,3 +20,9 @@ This repository involved very useful google sheet advance functions such as:
 Link To Google sheet:
 
 https://docs.google.com/spreadsheets/d/1NBw9_Xg1FSsdCYfzoZKRnbvZCat0vhl4/edit?usp=sharing&ouid=114759664381984759366&rtpof=true&sd=true 
+
+
+Credits:
+
+1. https://www.youtube.com/watch?v=9vB7pzaCHiw 
+2. https://www.youtube.com/watch?v=nLW8SerwnJo 
